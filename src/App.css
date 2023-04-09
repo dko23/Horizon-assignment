@@ -1,0 +1,44 @@
+.golf-bar{
+	border: 2px solid black;
+}
+
+.golf{
+	height: 100px;
+    width: 100px;
+    object-fit:cover;
+    margin-left: 250px;
+}
+.golf-nav a {
+	padding-right: 20px;
+}
+
+.navbar-nav{
+	border: 2px solid black;
+
+}
+.slider{
+	margin-top: 50px;
+}
+
+
+.course{
+	width: 18rem;
+}
+.card{
+	margin-top: 50px;
+}
+
+
+.footer{
+	margin-top: 50px;
+
+}
+.golf-end {background-color:#4cf514;
+	margin-top: 5rem;
+	margin-bottom: 2rem;
+	border: 2px solid black;
+
+}
+.no-bullets{
+	list-style-type: none;
+}
